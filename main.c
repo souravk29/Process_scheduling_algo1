@@ -35,7 +35,7 @@ int main() {
         printf("Process ID: %d, Waiting Time: %d, Turnaround Time: %d\n",
                p->pid, p->waiting_time, p->turnaround_time);
     }
-
+    printf("Ghantt chart execution"\n);
     // Print the Gantt Chart
     printf("\nGantt Chart:\n");
     for (int i = 0; i < gantt_count; i++) {
