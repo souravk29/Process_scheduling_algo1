@@ -13,7 +13,6 @@ void add_process(Scheduler* scheduler, Process process) {
 void fcfs(Scheduler* scheduler, GanttChart* gantt, int* gantt_count) {
     int current_time = 0;
     *gantt_count = 0;
-
     for (int i = 0; i < scheduler->count; i++) {
         Process* p = &scheduler->processes[i];
 
