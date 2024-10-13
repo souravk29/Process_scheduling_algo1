@@ -35,4 +35,4 @@ Bash code -->  ./scheduler
 ├── README.md            # Project documentation
 
 
-Note: Features like Round Robin, Shortest Job First (SJF), Priority Scheduling are yet to implemented in code. 
+Note: Features like Round Robin, Shortest Job First (SJF), Priority Scheduling are yet to be implemented in code. 
