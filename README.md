@@ -1,4 +1,5 @@
 # Process_scheduling_algo1
+(kindly open README.md file on Code mode)
 The Process Scheduler Simulator is a C-based application designed to simulate various CPU scheduling algorithms. This simulator helps users visualize how different scheduling algorithms manage processes in a system by generating a Gantt chart that displays the timeline of process execution. It provides a practical way to compare the efficiency and behavior of different algorithms such as FCFS (First-Come, First-Served), SJF (Shortest Job First), Priority Scheduling, and Round Robin.
 
 Features: 
